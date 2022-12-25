@@ -1,0 +1,101 @@
+.top-part {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    padding: 40px;
+}
+
+.backgroud-image-design {
+    background-image: url("eat-healthy/images/shapes/Group 8450.png");
+    width: 600px;
+    height: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+
+div {
+    padding: 30px;
+}
+
+#male-image {
+    width: 300px;
+    height: 400px;
+    text-align: center;
+
+}
+
+#female-image {
+    width: 250px;
+    height: 300px;
+}
+
+.food-image {
+    width: 600px;
+    height: 308px;
+    border-radius: 30px;
+}
+
+#skip-color {
+    color: #FC8F49;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    background-color: #921a05;
+    color: white;
+}
+
+.middle-part-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("eat-healthy/images/shapes/7.png");
+}
+
+.middle-part-2 {
+    text-align: center;
+}
+
+.middle-part-3 {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-bottom: 100px;
+    padding: 40px;
+}
+
+.backgroud-design-recepie1 {
+    background-color: rgb(171, 149, 149);
+    margin-right: 20px;
+    border-radius: 30px;
+    box-shadow: 4px;
+}
+
+.backgroud-design-recepie2 {
+    background-color: rgb(182, 159, 159);
+    border-radius: 30px;
+
+}
+
+.middle-part-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+    margin-bottom: 40px;
+
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.footer-design {}
